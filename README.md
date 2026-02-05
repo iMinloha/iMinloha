@@ -67,7 +67,7 @@
 <p align="center">
 <!-- GitHub徽章 -->
 <a href="https://github.com/iMinloha"><img src="https://img.shields.io/badge/GitHub-iMinloha-blue?logo=github" /></a>
-<a href="https://wakatime.com/@iMinloha"><img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" /></a>
+<a href="https://wakatime.com/@iMinloha"><img src="https://wakatime.com/badge/user/iMinloha.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=iMinloha" />
 </p>
 
