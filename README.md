@@ -68,8 +68,7 @@
 
 ## 💻 Coding Activity
 <p align="center">
-  <a href="https://wakatime.com/@iMinloha">
-    <img src="https://cdn.minloha.cn/img/avatar.png" alt="WakaTime Stats">
-  </a>
+  <a href="https://wakatime.com/@iMinloha">WakaTime Coding Stats</a> •
   <img src="https://komarev.com/ghpvc/?username=iMinloha&label=Profile%20Views&color=F85D7F" alt="Profile Views">
 </p>
+
