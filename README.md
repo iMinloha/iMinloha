@@ -20,32 +20,42 @@
 <br/>
 
 <!-- GitHub统计和连续打卡 -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMinloha&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMinloha&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme_stats)
 [![Streak Stats](https://streak-stats.demolab.com?user=iMinloha&theme=radical&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 ---
 
 ## 📌 **About Me**
-- 🔭 **Currently Working On:** [Describe your project]
-- 🌱 **Currently Learning:** [What you're learning]
-- 💬 **Ask Me About:** Web Dev, Open Source, or Tech!
+- 🔭 **Currently Working On:** [Your Project]
+- 🌱 **Currently Learning:** [Something New]
+- 💬 **Ask Me About:** C/C++, Java, Python, Pytorch, Robotics (ROS/PX4), Embedded Systems
 - 📫 **How to Reach Me:** [Your Email or Social Media]
 - ⚡ **Fun Fact:** [Something interesting about you]
 
 ---
 
 ## 🛠️ **Technologies & Tools**
+### Programming & Frameworks
 <p align="left">
-    <!-- 技术栈图标 -->
-    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+    <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+    <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/> </a>
+    <a href="https://www.ros.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1200px-Ros_logo.svg.png" alt="ROS" width="40" height="40"/> </a>
+    <a href="https://px4.io/" target="_blank"> <img src="https://px4.io/wp-content/uploads/2020/07/PX4_Logo_White.svg" alt="PX4" width="40" height="40"/> </a>
+    <a href="https://www.st.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/STMicroelectronics_logo.svg/1200px-STMicroelectronics_logo.svg.png" alt="STM32" width="40" height="40"/> </a>
+</p>
+
+### Development Tools
+<p align="left">
+    <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CLion_Icon.svg/1200px-CLion_Icon.svg.png" alt="CLion" width="40" height="40"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"/> </a>
+    <a href="https://www.solidworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Solidworks_Logo.svg/1200px-Solidworks_Logo.svg.png" alt="SolidWorks" width="40" height="40"/> </a>
+    <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" alt="Qt" width="40" height="40"/> </a>
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </a>
 </p>
 
 ---
