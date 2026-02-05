@@ -13,15 +13,12 @@
   </a>
 </p>
 
----
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iMinloha&theme=react-dark&hide_border=true&area=true&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" width="800" alt="Activity Graph">
   <br><br>
 </p>
 
----
 
 ## 🚀 My Tech Stack
 ### Programming & Frameworks
@@ -49,9 +46,7 @@
   <img src="https://img.shields.io/badge/Make-003366?style=for-the-badge&logo=gnu&logoColor=white" alt="Make">
 </div>
 
----
-
-## 🌍 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://github.com/iMinloha">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -63,8 +58,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
 
 ## 💻 Coding Activity
 <p align="center">
