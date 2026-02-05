@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Minloha/h1>
 <h3 align="center">A passionate developer exploring the intersection of coding and robotics</h3>
 
 <p align="center">
@@ -19,8 +19,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iMinloha&theme=react-dark&hide_border=true&area=true&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" width="800" alt="Activity Graph">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=iMinloha&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=iMinloha&theme=radical&hide_border=true&background=1F222E&dates=DDDDDD&ring=F85D7F&fire=F8D866" width="400" alt="Streak Stats">
 </p>
 
 ---
@@ -71,7 +69,7 @@
 ## 💻 Coding Activity
 <p align="center">
   <a href="https://wakatime.com/@iMinloha">
-    <img src="https://wakatime.com/badge/user/iMinloha.svg" alt="WakaTime Stats">
+    <img src="https://cdn.minloha.cn/img/avatar.png" alt="WakaTime Stats">
   </a>
   <img src="https://komarev.com/ghpvc/?username=iMinloha&label=Profile%20Views&color=F85D7F" alt="Profile Views">
 </p>
