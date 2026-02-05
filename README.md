@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minloha/h1>
+<h1 align="center">Hi 👋, I'm Minloha</h1>
 <h3 align="center">A passionate developer exploring the intersection of coding and robotics</h3>
 
 <p align="center">
@@ -68,7 +68,9 @@
 
 ## 💻 Coding Activity
 <p align="center">
-  <a href="https://wakatime.com/@iMinloha">WakaTime Coding Stats</a> •
-  <img src="https://komarev.com/ghpvc/?username=iMinloha&label=Profile%20Views&color=F85D7F" alt="Profile Views">
+    <a href="https://wakatime.com/@iMinloha">⏳ WakaTime Stats</a> 
+    <span> • </span>
+    <img src="https://komarev.com/ghpvc/?username=iMinloha&label=👁️ Views&color=F85D7F" alt="Profile Views">
 </p>
+
 
