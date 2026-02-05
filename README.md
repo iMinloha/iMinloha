@@ -71,8 +71,6 @@
   <a href="https://wakatime.com/@iMinloha" style="background: #F5F5F5; padding: 5px 10px; border-radius: 5px; text-decoration: none;">
     <img src="https://komarev.com/ghpvc/?username=iMinloha&color=F85D7F" alt="WakaTime">
   </a>
-  <span style="margin: 0 10px;"></span>
-  <img src="https://komarev.com/ghpvc/?username=iMinloha&color=F85D7F" alt="Profile Views">
 </p>
 
 
