@@ -70,7 +70,7 @@
 <p align="center">
   <a href="https://wakatime.com/@iMinloha" style="background: #F5F5F5; padding: 5px 10px; border-radius: 5px; text-decoration: none;">📊 Coding Analytics</a>
   <span style="margin: 0 10px;"></span>
-  <img src="https://komarev.com/ghpvc/?username=iMinloha&label=📌 Profile Views&color=F85D7F" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=iMinloha&color=F85D7F" alt="Profile Views">
 </p>
 
 
